@@ -1,0 +1,33 @@
+p {color: #101820FF;
+font-size:40px;}
+*{box-sizing: border-box;
+}
+
+body {background-color: lavender; 
+color:purple;}
+
+.topnav{ background-color:#234E70;
+overflow: hidden
+}
+
+.topnav a{color:aquamarine;
+float:left;
+display:block;
+text-align:center;
+padding:10px 11px; }
+
+*{box-sizing: border-box;
+}
+p {font-size:20px;} 
+.topnav a:hover{
+  background-color:#FBF8BE;
+  color: black ;
+}
+.headerlab8 { 
+  background-color: #234E70 ;
+  padding:1px;
+  text-align:center;
+  color:aquamarine; }
+  .laber {
+    text-align:center; 
+  }
